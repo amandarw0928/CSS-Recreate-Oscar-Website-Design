@@ -2,9 +2,16 @@
     border: 1px solid purple;
 }
 
-header {
+.header {
     background-color: black;
     text-align: right;
+}
+
+.navbar li {
+    background-color: white;
+    list-style: none;
+    display: inline-block;
+    : center;
 }
 
 nav li {
